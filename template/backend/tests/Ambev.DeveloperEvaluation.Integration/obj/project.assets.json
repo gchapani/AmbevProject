@@ -3390,19 +3390,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marcio.gomes\\.nuget\\packages\\": {}
+    "C:\\Users\\t_gleison.chapani\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "projectUniqueName": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
       "projectName": "Ambev.DeveloperEvaluation.Integration",
-      "projectPath": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
-      "packagesPath": "C:\\Users\\marcio.gomes\\.nuget\\packages\\",
-      "outputPath": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
+      "projectPath": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "packagesPath": "C:\\Users\\t_gleison.chapani\\.nuget\\packages\\",
+      "outputPath": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marcio.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\t_gleison.chapani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3410,21 +3415,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/linx-ticorp-ma-pay/_packaging/linx-ticorp-ma-pay/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/linx-tisistemas-backoffice-nuget/_packaging/linx-tisistemas-backoffice-nuget/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/linx-tisistemas-backoffice/_packaging/NugetIntranet%40Local/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/linx-tisistemas-nuget/_packaging/linx-tisistemas-nuget/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
-              "projectPath": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+            "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+              "projectPath": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
             },
-            "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-              "projectPath": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+            "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             },
-            "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
-              "projectPath": "D:\\tmp\\abi-gth-omnia-developer-evaluation\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
+            "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
+              "projectPath": "D:\\Pessoal\\Programação\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
             }
           }
         }
@@ -3438,7 +3446,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3489,7 +3498,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
