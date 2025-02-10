@@ -1,10 +1,39 @@
+//{
+//  "profiles": {
+//    "Docker Compose": {
+//      "commandName": "DockerCompose",
+//      "commandVersion": "1.0",
+//      "serviceActions": {
+//        "ambev.developerevaluation.webapi": "StartDebugging"
+//      }
+//    }
+//  }
+//}
+
 {
   "profiles": {
-    "Docker Compose": {
-      "commandName": "DockerCompose",
-      "commandVersion": "1.0",
-      "serviceActions": {
-        "ambev.developerevaluation.webapi": "StartDebugging"
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+          "applicationUrl": "http://localhost:7181",
+          "sslPort": 0
+        }
+      }
+    },
+    "Ambev.DeveloperEvaluation.WebApi": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:7181",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }

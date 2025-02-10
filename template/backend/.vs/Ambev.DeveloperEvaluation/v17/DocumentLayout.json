@@ -1,12 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Pessoal\\Programa\u00E7\u00E3o\\AmbevProject\\template\\backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|d:\\pessoal\\programa\u00E7\u00E3o\\ambevproject\\template\\backend\\tests\\ambev.developerevaluation.unit\\api\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\api\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|d:\\pessoal\\programa\u00E7\u00E3o\\ambevproject\\template\\backend\\src\\ambev.developerevaluation.webapi\\features\\product\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\product\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Programa\u00E7\u00E3o\\AmbevProject\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Api\\ProductTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Api\\ProductTests.cs",
+              "ToolTip": "D:\\Pessoal\\Programa\u00E7\u00E3o\\AmbevProject\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Api\\ProductTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Api\\ProductTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:47:29.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Programa\u00E7\u00E3o\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Product\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Product\\ProductController.cs",
+              "ToolTip": "D:\\Pessoal\\Programa\u00E7\u00E3o\\AmbevProject\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Product\\ProductController.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Product\\ProductController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:36:03.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

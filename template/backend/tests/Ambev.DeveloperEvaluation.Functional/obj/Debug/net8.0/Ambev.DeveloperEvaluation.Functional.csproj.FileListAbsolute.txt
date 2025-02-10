@@ -1,7 +1,7 @@
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Ambev.DeveloperEvaluation.Functional
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\CoverletSourceRootsMapping_Ambev.DeveloperEvaluation.Functional
-D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\testhost.exe
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\testhost.dll
+D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\testhost.exe
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 D:\Pessoal\Programação\AmbevProject\template\backend\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
