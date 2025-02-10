@@ -6,3 +6,4 @@ bin
 obj
 Debug
 .vs
+/template/backend/.vs/Ambev.DeveloperEvaluation/v17/.suo
